@@ -1,5 +1,5 @@
 # Analysing-the-Nobel-Prize-with-Plotly-Matplotlib-Seaborn
-Analysing the Nobel Prize with Plotly, Matplotlib, & Seaborn
+Analysing the Nobel Prize with Plotly, Matplotlib, & Seaborn within Google Colaboratory
 
 In this lesson, we reviewed many concepts that we've covered previously, including:
 
